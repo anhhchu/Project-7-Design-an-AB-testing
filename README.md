@@ -7,7 +7,7 @@ This project will require you to both make design decisions about how to run an 
 
 ##Project overview
 
-In this project, you will consider an actual experiment that was run by Udacity. The specific numbers have been changed, but the patterns have not. You will flesh the experiment idea out into a fully defined design, analyze the results, and propose a high-level follow-on experiment. The [project instructions](https://docs.google.com/document/u/0/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub?embedded=True) contain more details:  
+In this project, you will consider an actual experiment that was run by Udacity. The specific numbers have been changed, but the patterns have not. You will flesh the experiment idea out into a fully defined design, analyze the results, and propose a high-level follow-on experiment. The [project instructions](https://docs.google.com/document/u/0/d/1aCquhIqsUApgsxQ8-SQBAigFDcfWVVohLEXcV6jWbdI/pub?embedded=True) contain more details.
 
 ##Project format
 
